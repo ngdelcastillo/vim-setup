@@ -17,6 +17,16 @@
     "nerdtree": "scrooloose/nerdtree#~4.2.0",
     "command-T": "wincent/command-T#~1.11.4",
     "nerdcommenter": "scrooloose/nerdcommenter#~2.3.0",
-    "vim-commentary": "tpope/vim-commentary"
+    "vim-commentary": "tpope/vim-commentary",
+    "vim-rails": "tpope/vim-rails",
+    "vim-less": "groenewege/vim-less",
+    "vim-coffee-script": "kchmck/vim-coffee-script",
+    "vim-cucumber": "tpope/vim-cucumber",
+    "vim-emblem": "heartsentwined/vim-emblem#~1.2.0",
+    "vim-go": "fatih/vim-go",
+    "vim-haml": "tpope/vim-haml",
+    "vim-handlebars": "nono/vim-handlebars",
+    "vim-javascript": "pangloss/vim-javascript#~0.9.0",
+    "vim-ruby": "vim-ruby/vim-ruby"
   }
 }

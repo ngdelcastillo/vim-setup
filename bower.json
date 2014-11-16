@@ -12,6 +12,11 @@
     "tests"
   ],
   "dependencies": {
-    "vim-pathogen": "tpope/vim-pathogen"
+    "vim-pathogen": "tpope/vim-pathogen",
+    "vim-fugitive": "tpope/vim-fugitive",
+    "nerdtree": "scrooloose/nerdtree#~4.2.0",
+    "command-T": "wincent/command-T#~1.11.4",
+    "nerdcommenter": "scrooloose/nerdcommenter#~2.3.0",
+    "vim-commentary": "tpope/vim-commentary"
   }
 }

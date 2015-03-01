@@ -243,7 +243,7 @@ map <leader>j :call RenameFile()<cr>
 function! PromoteToLet()
   :normal! dd
   :normal! P
-  :.s/\(\w\+\) = \(.*\)$/let(:\1) { \2 }/
+  :.s/\(\w\+\) = \(.*\)$/let!(:\1) { \2 }/
   :normal ==
 endfunction
 :command! PromoteToLet :call PromoteToLet()
